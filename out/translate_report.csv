@@ -1,0 +1,11 @@
+page_index,status,translation_model,notes
+2,failed,gemini-1.5-flash,"404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
+2,success,gemini-flash-latest,
+3,success,gemini_agent,
+4,success,gemini_agent,
+5,success,gemini_agent,note:overlaps_page_4
+6,success,gemini_agent,
+7,success,gemini_agent,
+8,success,gemini_agent,
+9,success,gemini_agent,
+10,success,gemini_agent,
